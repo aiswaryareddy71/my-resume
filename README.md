@@ -20,8 +20,12 @@ Designed normalized database schemas to ensure data integrity and efficient stor
 Java | JDBC | MySQL | HTML5/CSS3
 Designed and developed a complete full-stack architecture for persistent task management.
 Integrated a MySQL backend with a functional frontend to handle real-time data updates.
-🏆 Achievements
+ Achievements
 MY Bharat Recognition: Honored by the Ministry of Youth Affairs and Sports for contributions toward the Viksit Bharat initiative.
 NSS Certificate: Awarded for community service and social development activities.
 Full Stack Java Intern: Completed professional internship at Skilldzire (2025).
+
+
+
+
 “I am committed to continuous learning and delivering efficient, user-centric code that drives business value.”
